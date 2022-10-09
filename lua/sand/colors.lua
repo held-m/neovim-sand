@@ -33,7 +33,7 @@ function colors.generate()
     colors.selection_inactive = '#1B2733'
     colors.selection_border = '#304357'
     colors.guide_active = '#393F4D'
-    colors.guide_normal = '#FFFFFF'
+    colors.guide_normal = '#815930'
 
     colors.vcs_added = '#91B362'
     colors.vcs_modified = '#6994BF'
