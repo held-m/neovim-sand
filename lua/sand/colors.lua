@@ -6,7 +6,7 @@ local colors = {
 function colors.generate()
      
     colors.accent = '#E6B450'
-    colors.bg = '#0A0E14'
+    -- colors.bg = '#0A0E14'
     colors.fg = '#cdd697'
     colors.ui = '#4D5566'
 
