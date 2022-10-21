@@ -19,9 +19,9 @@ function colors.generate()
     colors.keyword = '#c58354'
     colors.special = '#E6B673'
     colors.comment = '#6d9b70'
-    colors.constant = '#FFEE99'
+    -- colors.constant = '#FFEE99'
     colors.operator = '#F29668'
-    colors.error = '#FF3333'
+    colors.error = '#9c3838'
 
     colors.line = '#00010A'
     colors.panel_bg = '#0D1016'
